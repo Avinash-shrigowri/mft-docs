@@ -43,13 +43,9 @@ npm install gitbook-cli -g
 npm install
 ```
 
-5. Validate your development:
-```
-grunt installation_and_support_guide
-```
 
-6. Serve your gitbook contents locally:
+5. Serve your gitbook contents locally:
 ```
-cd src/installation_and_support_guide
+cd src
 gitbook serve
 ```
