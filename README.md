@@ -1,5 +1,11 @@
 # MFT Documentation
 
+
+[![Build Status](https://travis-ci.org/t3ctechnologies/mftup.svg?branch=master)](https://travis-ci.org/t3ctechnologies/mft-docs)
+
+
+#
+
 The goal of the mft Documentation project is to centralize, automate and modernize the mft documentation authoring, editing and publishing process.
 
 mft-doc is based on [gitbook](https://www.gitbook.com/) and [Markdown](http://daringfireball.net/projects/markdown/syntax).
